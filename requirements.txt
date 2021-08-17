@@ -1,0 +1,2 @@
+selenium==3.141
+pysimplegui==4.46
